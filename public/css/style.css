@@ -1,0 +1,49 @@
+header,
+.project:not(:last-child) {
+  border-bottom: 1px solid #ccc;
+}
+
+.no-button {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  color: rgb(199, 90, 90);
+  text-decoration: none;
+  font-size: 100%;
+  font-weight: bolder;
+}
+
+.no-button:hover {
+  color: rgb(200, 181, 181);
+}
+
+a {
+  color: rgb(199, 90, 90);
+  font-weight: bolder;
+}
+
+a:hover {
+  color: rgb(200, 181, 181);
+  text-decoration-line: none;
+}
+
+.text-center {
+  background-color: rgb(224, 210, 210);
+}
+
+main {
+  font-weight: bolder;
+}
+.btn-success {
+  background-color: rgb(199, 90, 90);
+  color: white;
+  font-weight: bolder;
+}
+.btn-success:hover {
+  background-color: rgb(45, 40, 40);
+  color: white;
+}
+.col-md-6 {
+  background-color: rgb(224, 210, 210);
+}
