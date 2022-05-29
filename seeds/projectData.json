@@ -38,5 +38,10 @@
     "name": "Bootstrap",
     "description": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.",
     "needed_funding": 8
+  },
+  {
+    "name": "python",
+    "description": "Python is a high-level, interpreted, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected.",
+    "needed_funding": 9
   }
 ]
