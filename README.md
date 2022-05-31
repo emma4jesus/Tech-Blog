@@ -19,7 +19,7 @@ MySQL, node.js, npm, Express.js, Heroku (Jaws_db), Handlebars.js, dependencies: 
 ![View3](./assets/4.png)
 
 ### Links
-* Deploy Heroku Link: 
+* Deploy Heroku Link: https://my-tech-blog-deploy.herokuapp.com
 * GitHub Repo: https://github.com/emma4jesus/Tech-Blog
 
 ### License
